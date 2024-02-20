@@ -83,16 +83,16 @@ fetch(
 
     let images_src = [
       {
-        src: "./assets/images/img1.jpg",
+        src: "assets/images/img1.jpg",
       },
       {
-        src: "./assets/images/img3.jpg",
+        src: "assets/images/img3.jpg",
       },
       {
-        src: "./assets/images/img3.jpeg",
+        src: "assets/images/img3.jpeg",
       },
       {
-        src: "./assets/images/main.jpg",
+        src: "assets/images/main.jpg",
       },
     ];
 
