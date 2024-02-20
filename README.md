@@ -2,6 +2,9 @@
 Task assigned for FrontEnd Intern Role
 
 
+Hosting Url:https://prudhvikarri.github.io/Marmeto-Task/
+The Website is live at the above Url.
+
 ## Explanation:
 
 index.html: This is the main HTML file for your project, where you'll write the structure and content of your web page.
